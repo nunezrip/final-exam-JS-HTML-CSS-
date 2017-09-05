@@ -1,0 +1,19 @@
+Question 8
+What is the value of x?
+
+var x = 10;
+var y = 6;
+x = x * y;
+var z = 4;
+x = x * z;
+
+Answer: 240
+
+
+
+var x = 10;
+var y = 6;
+x = x * y;
+var z = 4;
+x = x * z;
+console.log(x);
